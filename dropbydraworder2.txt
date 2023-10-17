@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Fing synonim to homosexual
 12345
+=======
+This file can be dropped due to visual design (characters in this file have the same emotion)
+>>>>>>> f02f390 (changed files)

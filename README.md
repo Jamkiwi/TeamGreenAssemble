@@ -1,2 +1,2 @@
-# Why are you still with me?
-learning to use my freaking language
+# Fork testing
+This repo is created to test fork action and pull requests in github
